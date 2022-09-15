@@ -45,3 +45,8 @@ $$
 $$
 (\Gamma_u-1)^2+(\Gamma_v-\frac{1}{\widetilde{X}})^2=(\frac{1}{\widetilde{X}})^2
 $$
+### $\rho$的标定
+$$
+\rho=\frac{1+|\Gamma|}{1-|
+\Gamma|}
+$$

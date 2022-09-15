@@ -5,9 +5,11 @@ Z_{in}(z)=Z_0\frac{Z_L+jZ_0\tan\beta z}{Z_0+jZ_L\tan\beta z}\\
 $$
 
 ## Smith 圆图
+
 $\Gamma(z) \hArr Z_{in}(z) \hArr \rho \hArr \varphi$
 
 ### 特性参量无量纲化  
+
 $$
 \widetilde{Z}_{in}=\frac{Z_{in}(z)}{Z_0}\\
 Z_{in}(z)=Z_0\frac{1+\Gamma}{1-\Gamma}\\
@@ -46,6 +48,7 @@ $$
 (\Gamma_u-1)^2+(\Gamma_v-\frac{1}{\widetilde{X}})^2=(\frac{1}{\widetilde{X}})^2
 $$
 ### $\rho$的标定
+
 $$
 \rho=\frac{1+|\Gamma|}{1-|
 \Gamma|}

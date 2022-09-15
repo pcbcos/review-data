@@ -29,3 +29,19 @@ $$
 \Gamma(z)=\Gamma_L e^{-2\beta z}=|\Gamma_L|e^{j(\phi_L-2\beta z)}\\
 \Gamma(z)周期为\frac{\lambda}{2},\tau 周期为\frac{1}{2}\\
 $$
+套覆阻抗圆
+$$
+\left\{
+\begin{array}{l}
+\widetilde{Z}_{in}(z)=\frac{1+\Gamma(z)}{1-\Gamma(z)}=\widetilde{R}+j\widetilde{X}\\
+\Gamma=\Gamma_u+j\Gamma_v
+\end{array}\right.\\
+$$
+等$\widetilde{R}圆$
+$$
+(\Gamma_u-\frac{\widetilde{R}}{1+\widetilde{R}})^2+\Gamma_v^2=(\frac{1}{1+\widetilde{R}})^2
+$$
+等$\widetilde{X}$圆
+$$
+(\Gamma_u-1)^2+(\Gamma_v-\frac{1}{\widetilde{X}})^2=(\frac{1}{\widetilde{X}})^2
+$$

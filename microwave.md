@@ -11,7 +11,7 @@ $\Gamma(z) \hArr Z_{in}(z) \hArr \rho \hArr \varphi$
 $$
 \widetilde{Z}_{in}=\frac{Z_{in}(z)}{Z_0}\\
 Z_{in}(z)=Z_0\frac{1+\Gamma}{1-\Gamma}\\
-\widetilde{Z}_{in}=\frac{1-\Gamma}{1+\Gamma}\\
+\widetilde{Z}_{in}=\frac{1+\Gamma}{1-\Gamma}\\
 \Gamma=\frac{\widetilde{Z}_{in}-1}{\widetilde{Z}_{in}+1}
 $$
 无量纲电长度
@@ -21,4 +21,11 @@ $$
 圆图以$|\Gamma(z)|$为基底
 $$
 0\le |\Gamma(z)|\le 1
+$$
+
+将阻抗(导纳),$\rho$套在等$|\Gamma|$圆上
+$$
+\Gamma=\Gamma_u+j\Gamma_v\\
+\Gamma(z)=\Gamma_L e^{-2\beta z}=|\Gamma_L|e^{j(\phi_L-2\beta z)}\\
+\Gamma(z)周期为\frac{\lambda}{2},\tau 周期为\frac{1}{2}\\
 $$

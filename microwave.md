@@ -95,3 +95,9 @@ $$
 波腹波节对换
 
 由阻抗求导纳，只需将阻抗点在圆图上以原点为中心转$\pi$再读数
+
+$$
+\widetilde{Z}_{in}(z)\widetilde{Z}_{in}(z+\frac{\lambda}{4})=1 \\
+\widetilde{Z}_{in}(z)=\frac{1}{\widetilde{Y}_{in}(z)}\\
+\therefore \widetilde{Z}_{in}(z+\frac{\lambda}{4})=\widetilde{Y}_{in}(z)
+$$

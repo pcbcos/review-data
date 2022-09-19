@@ -6,7 +6,7 @@ $$
 
 ## Smith 圆图
 
-$\Gamma(z) \hArr Z_{in}(z) \hArr \rho \hArr \varphi$
+$\Gamma(z) \Rightarrow Z_{in}(z) \Rightarrow \rho \Rightarrow \varphi$
 
 ### 特性参量无量纲化  
 
@@ -19,7 +19,7 @@ $$
 无量纲电长度
 $$
 \tau=\frac{l}{\lambda}
-$$  
+$$
 圆图以$|\Gamma(z)|$为基底
 $$
 0\le |\Gamma(z)|\le 1

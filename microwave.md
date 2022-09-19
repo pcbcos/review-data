@@ -101,3 +101,7 @@ $$
 \widetilde{Z}_{in}(z)=\frac{1}{\widetilde{Y}_{in}(z)}\\
 \therefore \widetilde{Z}_{in}(z+\frac{\lambda}{4})=\widetilde{Y}_{in}(z)
 $$
+
+$$
+Z_{in}\rightarrow\widetilde{Z}_{in}\rightarrow \widetilde{R}_{in} ,\widetilde{X}_{in}\rightarrow \rho=\widetilde{R}\rightarrow |\Gamma|\rightarrow(\varphi,\tau)
+$$

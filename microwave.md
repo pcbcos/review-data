@@ -6,7 +6,7 @@ $$
 
 ## Smith 圆图
 
-$\Gamma(z) \Rightarrow Z_{in}(z) \Rightarrow \rho \Rightarrow \varphi$
+$\Gamma(z) \Leftrightarrow Z_{in}(z) \Leftrightarrow \rho \Leftrightarrow \varphi$
 
 ### 特性参量无量纲化  
 

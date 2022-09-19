@@ -47,9 +47,61 @@ $$
 $$
 (\Gamma_u-1)^2+(\Gamma_v-\frac{1}{\widetilde{X}})^2=(\frac{1}{\widetilde{X}})^2
 $$
+
 ### $\rho$的标定
 
 $$
 \rho=\frac{1+|\Gamma|}{1-|
 \Gamma|}
+$$
+作圆交实轴
+
+### 圆图上特殊的点线面
+匹配点(0,0)
+$$
+\Gamma=0,\widetilde{R}=1,\widetilde{X}=0
+$$
+短路点(-1,0)
+$$
+\Gamma=-1,\widetilde{R}=\widetilde{X}=0\\
+$$
+开路点(1,0)
+$$
+\Gamma=1,\varphi=0
+$$
+单位圆
+$$
+|\Gamma|=1,\widetilde{Z_{in}}=j\widetilde{X}
+$$
+正实轴
+$$
+\widetilde{R}=\rho,1\lt\widetilde{R}\lt \infty
+$$
+负半轴
+$$
+\widetilde{R}=k
+$$
+
+## 导纳圆图
+$$
+\widetilde{Y}_{in}(z)=\frac{1}{\widetilde{Z_{in}}}=\frac{1-\Gamma(z)}{1+\Gamma(z)}=\frac{1+(-\Gamma(z))}{1-(-\Gamma(z))}=\frac{1+\Gamma_i(z)}{1-\Gamma_i(z)}\\
+\widetilde{Y}_{in}(z)=\widetilde{G}+j\widetilde{B}\\
+\widetilde{R}\hArr\widetilde{G}\\
+\widetilde{X}\hArr\widetilde{B}\\
+\Gamma(z)\hArr\Gamma_i(z)
+$$
+短路开路对换
+感性容性对换
+波腹波节对换
+
+由阻抗求导纳，只需将阻抗点在圆图上以原点为中心转$\pi$再读数
+
+$$
+\widetilde{Z}_{in}(z)\widetilde{Z}_{in}(z+\frac{\lambda}{4})=1 \\
+\widetilde{Z}_{in}(z)=\frac{1}{\widetilde{Y}_{in}(z)}\\
+\therefore \widetilde{Z}_{in}(z+\frac{\lambda}{4})=\widetilde{Y}_{in}(z)
+$$
+
+$$
+Z_{in}\rightarrow\widetilde{Z}_{in}\rightarrow \widetilde{R}_{in} ,\widetilde{X}_{in}\rightarrow \rho=\widetilde{R}\rightarrow |\Gamma|\rightarrow(\varphi,\tau)
 $$

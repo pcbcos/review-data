@@ -47,9 +47,37 @@ $$
 $$
 (\Gamma_u-1)^2+(\Gamma_v-\frac{1}{\widetilde{X}})^2=(\frac{1}{\widetilde{X}})^2
 $$
+
 ### $\rho$的标定
 
 $$
 \rho=\frac{1+|\Gamma|}{1-|
 \Gamma|}
+$$
+作圆交实轴
+
+### 圆图上特殊的点线面
+匹配点(0,0)
+$$
+\Gamma=0,\widetilde{R}=1,\widetilde{X}=0
+$$
+短路点(-1,0)
+$$
+\Gamma=-1,\widetilde{R}=\widetilde{X}=0\\
+$$
+开路点(1,0)
+$$
+\Gamma=1,\varphi=0
+$$
+单位圆
+$$
+|\Gamma|=1,\widetilde{Z_{in}}=j\widetilde{X}
+$$
+正实轴
+$$
+\widetilde{R}=\rho,1\lt\widetilde{R}\lt \infty
+$$
+负半轴
+$$
+\widetilde{R}=k
 $$

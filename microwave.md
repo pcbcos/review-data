@@ -81,3 +81,17 @@ $$
 $$
 \widetilde{R}=k
 $$
+
+## 导纳圆图
+$$
+\widetilde{Y}_{in}(z)=\frac{1}{\widetilde{Z_{in}}}=\frac{1-\Gamma(z)}{1+\Gamma(z)}=\frac{1+(-\Gamma(z))}{1-(-\Gamma(z))}=\frac{1+\Gamma_i(z)}{1-\Gamma_i(z)}\\
+\widetilde{Y}_{in}(z)=\widetilde{G}+j\widetilde{B}\\
+\widetilde{R}\hArr\widetilde{G}\\
+\widetilde{X}\hArr\widetilde{B}\\
+\Gamma(z)\hArr\Gamma_i(z)
+$$
+短路开路对换
+感性容性对换
+波腹波节对换
+
+由阻抗求导纳，只需将阻抗点在圆图上以原点为中心转$\pi$再读数

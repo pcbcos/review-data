@@ -17,6 +17,6 @@ $$
 \nabla\times\ve =-\frac{\partial \vb}{\partial t}\\
 \nabla \cdot \vd =\rho\\
 \nabla \cdot \vb =0\\
-\nabla \times \vh =\mathbf{J}+\frac{\partial D}{\partial t}
+\nabla \times \vh =\mathbf{J}+\frac{\partial \vd}{\partial t}
 
 $$

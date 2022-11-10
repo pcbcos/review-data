@@ -28,7 +28,7 @@ $$
 将阻抗(导纳),$\rho$套在等$|\Gamma|$圆上
 $$
 \Gamma=\Gamma_u+j\Gamma_v\\
-\Gamma(z)=\Gamma_L e^{-2\beta z}=|\Gamma_L|e^{j(\phi_L-2\beta z)}\\
+\Gamma(z)=\Gamma_L e^{-2j\beta z}=|\Gamma_L|e^{j(\phi_L-2\beta z)}\\
 \Gamma(z)周期为\frac{\lambda}{2},\tau 周期为\frac{1}{2}\\
 $$
 套覆阻抗圆
@@ -86,9 +86,9 @@ $$
 $$
 \widetilde{Y}_{in}(z)=\frac{1}{\widetilde{Z_{in}}}=\frac{1-\Gamma(z)}{1+\Gamma(z)}=\frac{1+(-\Gamma(z))}{1-(-\Gamma(z))}=\frac{1+\Gamma_i(z)}{1-\Gamma_i(z)}\\
 \widetilde{Y}_{in}(z)=\widetilde{G}+j\widetilde{B}\\
-\widetilde{R}\hArr\widetilde{G}\\
-\widetilde{X}\hArr\widetilde{B}\\
-\Gamma(z)\hArr\Gamma_i(z)
+\widetilde{R}\Leftrightarrow\widetilde{G}\\
+\widetilde{X}\Leftrightarrow\widetilde{B}\\
+\Gamma(z)\Leftrightarrow\Gamma_i(z)
 $$
 短路开路对换
 感性容性对换
